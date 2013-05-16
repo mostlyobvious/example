@@ -1,0 +1,6 @@
+development:
+  adapter: mysql2
+  database: example_development
+  pool: 5
+  timeout: 5000
+  username: root
